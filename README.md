@@ -17,8 +17,6 @@ Use this dataset for clustering part
 
 Name : Name of Restaurants
 
-Links : URL Links of Restaurants
-
 Cost : Per person estimated Cost of dining
 
 Collection : Tagging of Restaurants w.r.t. Zomato categories
